@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  TableViewTutorial
-//
-//  Created by Andrew Seeley on 5/10/2014.
-//  Copyright (c) 2014 Seemu. All rights reserved.
-//
+
 
 import UIKit
 
