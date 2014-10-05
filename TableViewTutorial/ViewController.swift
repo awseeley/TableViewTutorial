@@ -15,6 +15,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         
         tableData.append("Seemu")
         self.tableView.reloadData()
+        
+        println("test change")
     }
     
     // Table View Methods
