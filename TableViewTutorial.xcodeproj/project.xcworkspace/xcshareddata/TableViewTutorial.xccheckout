@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>FC6B0CFA-AE8E-494D-9AE2-1BBCF1E4872F</string>
 	<key>IDESourceControlProjectName</key>
-	<string>TableViewTutorial</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>F4DACE890028BA0DA0D2A6F2610016E753CED596</key>
 		<string>https://github.com/awseeley/TableViewTutorial.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>TableViewTutorial.xcodeproj</string>
+	<string>TableViewTutorial.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>F4DACE890028BA0DA0D2A6F2610016E753CED596</key>
