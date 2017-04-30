@@ -6,7 +6,7 @@ Tutorial:
 
 http://www.seemuapps.com/?p=63
 
-https://www.youtube.com/watch?v=lQekMEM0bNw
+https://youtu.be/jRkTS2vPrS8
 
 Check out our Website: http://www.seemuapps.com
 
